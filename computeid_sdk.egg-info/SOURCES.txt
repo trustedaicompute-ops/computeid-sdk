@@ -1,0 +1,9 @@
+LICENSE
+README.md
+computeid.py
+setup.py
+computeid_sdk.egg-info/PKG-INFO
+computeid_sdk.egg-info/SOURCES.txt
+computeid_sdk.egg-info/dependency_links.txt
+computeid_sdk.egg-info/requires.txt
+computeid_sdk.egg-info/top_level.txt
